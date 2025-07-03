@@ -60,7 +60,15 @@ http://localhost:5173
  - 👉https://task-manager-psi-seven-95.vercel.app/
 
 ## 🖼 Screenshots
-https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/1.png
-https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/2.png
-https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/3.png
-https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/4.png
+
+### 🏠 Dashboard View  
+![Dashboard](https://raw.githubusercontent.com/Ricky-Hacker001/task_manager/main/public/screenshots/1.png)
+
+### 🌓 Dark Mode Enabled  
+![Dark Mode](https://raw.githubusercontent.com/Ricky-Hacker001/task_manager/main/public/screenshots/2.png)
+
+### ➕ Add / Edit Tasks  
+![Add Task](https://raw.githubusercontent.com/Ricky-Hacker001/task_manager/main/public/screenshots/3.png)
+
+### Delete Pop up  
+![Filter Tasks](https://raw.githubusercontent.com/Ricky-Hacker001/task_manager/main/public/screenshots/4.png)
