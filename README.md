@@ -1,73 +1,42 @@
-# Welcome to your Lovable project
+# 📝 Personal Task Tracker
 
-## Project info
+## 📖 Description
 
-**URL**: https://lovable.dev/projects/9b201437-6f9f-4cba-9c8f-96e1221a119f
+A simple yet powerful task manager built using React and TypeScript. This app allows users to add, edit, delete, and manage tasks with features like filters, priorities, categories, and localStorage persistence. Designed to be responsive and user-friendly with smooth transitions and dark mode support.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- 🔐 Simple login (stores username in localStorage)
+- ➕ Add, ✏️ Edit, ❌ Delete tasks
+- ✅ Mark tasks as completed or pending
+- 📄 View task details: title, description, status, and creation date
+- 🔍 Filter tasks: All, Completed, Pending
+- 🔢 Show task count for each filter
+- 💾 Persist data in localStorage (survives page refresh)
+- 🏷 Task categories/tags
+- ⚠️ Priority levels (High, Medium, Low)
+- 📅 Due dates for tasks
+- 🔎 Task search functionality
+- 🌗 Dark mode toggle
+- 🎨 Smooth UI animations and transitions
+- 📱 Fully responsive design
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9b201437-6f9f-4cba-9c8f-96e1221a119f) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Setup Instructions
 
-**Use your preferred IDE**
+```bash
+# 1. Clone the repository
+git clone https://github.com/Ricky-Hacker001/task_manager.git
+cd task_manager
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# 2. Install dependencies
+npm install
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 3. Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9b201437-6f9f-4cba-9c8f-96e1221a119f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# 4. Open the app in your browser
+http://localhost:5173
