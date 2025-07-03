@@ -60,3 +60,7 @@ http://localhost:5173
  - 👉https://task-manager-psi-seven-95.vercel.app/
 
 ## 🖼 Screenshots
+https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/1.png
+https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/2.png
+https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/3.png
+https://github.com/Ricky-Hacker001/task_manager/blob/main/public/screenshots/4.png
